@@ -1,0 +1,131 @@
+{
+"one_time": true,
+    "buttons": [
+        [{
+                "action": {
+                    "type": "text",
+                    "label": "1А"
+                },
+                "color": "positive"
+            },
+            {
+                "action": {
+                    "type": "text",
+                    "label": "1Б"
+                },
+                "color": "positive"
+            },
+            {
+                "action": {
+                    "type": "text",
+                    "label": "1В"
+                },
+                "color": "positive"
+            },
+            {
+                "action": {
+                    "type": "text",
+                    "label": "1Г"
+                },
+                "color": "positive"
+            }
+        ],
+        [{
+                "action": {
+                    "type": "text",
+                    "label": "2А"
+                },
+                "color": "positive"
+            },
+            {
+                "action": {
+                    "type": "text",
+                    "label": "2Б"
+                },
+                "color": "positive"
+            },
+            {
+                "action": {
+                    "type": "text",
+                    "label": "2В"
+                },
+                "color": "positive"
+            },
+            {
+                "action": {
+                    "type": "text",
+                    "label": "2Г"
+                },
+                "color": "positive"
+            }
+        ],
+        [{
+                "action": {
+                    "type": "text",
+                    "label": "3А"
+                },
+                "color": "positive"
+            },
+            {
+                "action": {
+                    "type": "text",
+                    "label": "3Б"
+                },
+                "color": "positive"
+            },
+            {
+                "action": {
+                    "type": "text",
+                    "label": "3В"
+                },
+                "color": "positive"
+            },
+            {
+                "action": {
+                    "type": "text",
+                    "label": "3Г"
+                },
+                "color": "positive"
+            }
+        ],
+        [{
+                "action": {
+                    "type": "text",
+                    "label": "4А"
+                },
+                "color": "positive"
+            },
+            {
+                "action": {
+                    "type": "text",
+                    "label": "4Б"
+                },
+                "color": "positive"
+            },
+            {
+                "action": {
+                    "type": "text",
+                    "label": "4В"
+                },
+                "color": "positive"
+            },
+            {
+                "action": {
+                    "type": "text",
+                    "label": "4Г"
+                },
+                "color": "positive"
+            }
+        ],
+        [
+        	{
+                "action": {
+                    "type": "text",
+                    "label": "/exit"
+                },
+                "color": "negative"
+            }
+        ]
+
+    ]
+}

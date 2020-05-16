@@ -1,0 +1,69 @@
+{   
+"one_time": true,
+    "buttons": [
+        [{
+                "action": {
+                    "type": "text",
+                    "label": "/Топ"
+                },
+                "color": "positive"
+            },
+			{
+                "action": {
+                    "type": "text",
+                    "label": "/Сигна"
+                },
+                "color": "positive"
+            }
+        ],
+        [    
+            {
+                "action": {
+                    "type": "text",
+                    "label": "Играть"
+                },
+                "color": "primary"
+            },
+            {
+                "action": {
+                    "type": "text",
+                    "label": "Прятки"
+                },
+                "color": "primary"
+            },
+            {
+                "action": {
+                    "type": "text",
+                    "label": "Тест"
+                },
+                "color": "primary"
+            }
+        ],
+        [
+            {
+                "action":{
+                    "type":"text",
+                    "label":"Камень|Ножницы|Бумага"
+                },
+                "color":"primary"
+            },
+            {
+                "action": {
+                    "type": "text",
+                    "label": "Морской|Бой"
+                },
+                "color": "primary"
+            }
+
+        ],
+        [    
+            {
+                "action":{
+                    "type":"text",
+                    "label":"Пока"
+                },
+                "color":"negative"
+            }
+        ]
+    ]
+}

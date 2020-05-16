@@ -1,0 +1,21 @@
+{   
+"one_time": true,
+    "buttons": [
+        [
+            {
+                "action": {
+                    "type": "text",
+                    "label": "/exit"
+                },
+                "color": "negative"
+            },
+            {
+                "action": {
+                    "type": "text",
+                    "label": "/балл"
+                },
+                "color": "positive"
+            }
+        ]
+    ]
+}

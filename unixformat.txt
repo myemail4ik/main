@@ -1,0 +1,27 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+ubuntu
+1122334455st
+
+sudo  rm -R main                                                  (имя папки)
+sudo git clone https://github.com/myemail4ik/main.git             (ссылка)
+cd main                                                           (папка куда склонировал)
+sudo dos2unix start.py
+sudo chmod a+x start.py
+sudo ./start.py
+
+
+sudo crontab -e
+@reboot cd /home/ubuntu/main(папка) && sudo ./main.py (файл)
+
+sudo shutdown -h now
+
+
+sudo  rm -R main                                  (имя папки)
+sudo git clone https://github.com/myemail4ik/main.git                      (ссылка)
+cd main                    (папка куда склонировал)
+sudo dos2unix main.py
+sudo chmod a+x main.py
+sudo ./main.py
+

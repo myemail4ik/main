@@ -1,0 +1,94 @@
+{   
+"one_time": true,
+    "buttons": [
+        [{
+                "action": {
+                    "type": "text",
+                    "label": "/Варя"
+                },
+                "color": "primary"
+            },
+			{
+                "action": {
+                    "type": "text",
+                    "label": "/драма"
+                },
+                "color": "primary"
+            },
+            {
+                "action": {
+                    "type": "text",
+                    "label": "/экшн"
+                },
+                "color": "primary"
+            }
+        ],
+        [{
+                "action": {
+                    "type": "text",
+                    "label": "/школа"
+                },
+                "color": "primary"
+            },
+            {
+                "action": {
+                    "type": "text",
+                    "label": "/комедия"
+                },
+                "color": "primary"
+            },
+            {
+                "action": {
+                    "type": "text",
+                    "label": "/фэнтези"
+                },
+                "color": "primary"
+            }
+        ],
+        [{
+                "action": {
+                    "type": "text",
+                    "label": "/романтика"
+                },
+                "color": "primary"
+            },
+            {
+                "action": {
+                    "type": "text",
+                    "label": "/повседнев"
+                },
+                "color": "primary"
+            },
+            {
+                "action": {
+                    "type": "text",
+                    "label": "/музыка"
+                },
+                "color": "primary"
+            }
+        ],
+        [
+            {
+                "action": {
+                    "type": "text",
+                    "label": "/новинки"
+                },
+                "color": "primary"
+            }
+        ],
+        [    
+
+             {
+                "action": {
+                    "type": "text",
+                    "label": "Назад"
+                },
+                "color": "negative"
+            }
+
+
+
+        ]
+
+    ]
+}
