@@ -16,8 +16,8 @@ import random_list
 
 tokenvk = "110d381ed79978477c80de7452b829c4860ba00d83fc86be21eb237b41211a8276e2e4a21847ed371cb67"
 
-tokenvk = "7d09c12592445e951e8b5f2ddba6a2e792dd1634e9d01ecdf1b649fe818469a00ba1e570c9c839d839b97"
-#tokenvk = os.environ.get('vktoken')
+#tokenvk = "7d09c12592445e951e8b5f2ddba6a2e792dd1634e9d01ecdf1b649fe818469a00ba1e570c9c839d839b97"
+tokenvk = os.environ.get('vktoken')
 
 
 #prosba ='\n  не забывайте про "/", иначе бот не будет читать ваши сообщения'
